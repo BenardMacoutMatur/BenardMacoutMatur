@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BenardMacoutMatur
-- 👀 I’m interested in - Machine Learning 
+- 👀 I’m interested in - Machine Learning, DATABASE ADMINISTRATION, CLOUD COMPUTING.
 - 🌱 I’m currently learning - Data Science and Analytics 
 - 💞️ I’m looking to collaborate on - Data base projects, Building AI projects.
-- 📫 How to reach me - through email mmmcht01@gmail.com
+- 📫 How to reach me - through email machotmatur54@gmail.com
 - 😄 Pronouns: HE.
 - ⚡ Fun fact: ...
 
