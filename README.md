@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenardMacoutMatur
+- 👋 Hi, I’m @MacoutMatur
 - 👀 I’m interested in - Machine Learning, DATABASE ADMINISTRATION, CLOUD COMPUTING.
 - 🌱 I’m currently learning - Data Science and Analytics 
 - 💞️ I’m looking to collaborate on - Data base projects, Building AI projects.
