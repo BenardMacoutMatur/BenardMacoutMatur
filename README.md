@@ -47,7 +47,25 @@ During my internship at **4G Capital**, I worked on several data and AI-driven p
 - Assisted in managing and organizing structured business data.
 
 ---
+---
 
+## 🏢 Entrepreneurial Experience
+
+### Founder & Developer – Personal Web Platforms
+
+In addition to my technical training and internship experience, I have built and managed **a company consisting of multiple websites and online platforms**.
+
+Through this venture, I have gained hands-on experience in:
+
+- 🌐 **Full Website Development** – Designing and launching multiple functional websites.
+- 🗄️ **Database Management** – Structuring and managing backend data systems.
+- ☁️ **Cloud Deployment** – Hosting and maintaining web platforms online.
+- 📊 **Data Analytics** – Tracking user engagement and improving digital platforms.
+- 🔧 **System Maintenance** – Managing updates, performance, and scalability.
+
+This experience strengthened my skills in **software development, digital product building, and technical entrepreneurship.**
+
+---
 ## 🛠️ Tech Stack
 
 ### Programming
