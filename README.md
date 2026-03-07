@@ -1,83 +1,108 @@
-# 👋 Hi, I'm Benard Macout Matur
+<h1 align="center">Hi 👋, I'm Benard Macout Matur</h1>
+<h3 align="center">Data Science | Machine Learning | Cloud & Database Enthusiast</h3>
 
-Welcome to my GitHub profile! I am passionate about using **data, artificial intelligence, and cloud technologies** to build solutions that solve real-world problems.
+<p align="center">
+Passionate about transforming data into intelligent solutions using AI, Machine Learning, and Cloud technologies.
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 👀 I’m interested in **Machine Learning, Database Administration, Cloud Computing, and Data Analytics**
-- 🌱 I’m currently learning **Data Science and Advanced Analytics**
-- 💞️ I’m looking to collaborate on **AI projects, Database systems, and Data-driven solutions**
-- 📫 How to reach me: **machotmatur54@gmail.com**
+## 🚀 About Me
+
+- 👀 Interested in **Machine Learning, Database Administration, Cloud Computing, and Data Analytics**
+- 🌱 Currently learning **Data Science and Advanced Analytics**
+- 🤝 Looking to collaborate on **AI projects, database systems, and data-driven solutions**
+- 📫 Reach me at **machotmatur54@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy transforming raw data into actionable insights and intelligent systems.
+- ⚡ Fun fact: *I enjoy turning raw data into powerful insights.*
 
 ---
 
 ## 💼 Professional Experience
 
 ### Intern – 4G Capital
-During my internship at **4G Capital**, I gained practical experience working with data-driven technologies and intelligent systems.
 
-Key areas I worked on:
-- 📊 **Business Intelligence (BI) Analytics** – Analyzing business data to generate insights for decision-making.
-- 🤖 **Machine Learning Projects** – Building and experimenting with models for data analysis and prediction.
-- 🧠 **Google ADK Projects** – Working with Google's development tools and frameworks to build intelligent applications.
-- 🗄️ **Database Systems** – Supporting data storage, organization, and management processes.
+During my internship at **4G Capital**, I worked on several data and AI-driven projects.
 
-This experience helped strengthen my skills in **data analysis, machine learning development, and data infrastructure.**
+**Key Contributions**
+
+📊 **Business Intelligence Analytics**
+- Analyzed business data to generate insights for decision-making.
+
+🤖 **Machine Learning Projects**
+- Built and tested models for data analysis and predictive tasks.
+
+🧠 **Google ADK Development**
+- Developed intelligent applications using Google development frameworks.
+
+🗄️ **Database Systems**
+- Assisted in managing and organizing structured business data.
 
 ---
 
-## 🚀 Technical Skills
+## 🛠️ Tech Stack
 
-### Programming & Tools
-- Python
-- SQL
-- Git & GitHub
+### Programming
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ### Data & AI
-- Machine Learning
-- Data Analysis
-- Business Intelligence (BI)
-- Data Visualization
 
-### Technologies & Platforms
-- Google Development Tools (ADK)
-- Cloud Computing
-- Database Management Systems
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/BI%20Analytics-purple?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-yellow?style=for-the-badge)
+
+### Technologies
+
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-lightblue?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database%20Management-darkblue?style=for-the-badge)
+![Google Tools](https://img.shields.io/badge/Google%20ADK-red?style=for-the-badge)
 
 ---
 
-## 📊 Areas of Interest
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BenardMacoutMatur&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenardMacoutMatur&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌍 Areas of Interest
+
 - Artificial Intelligence
 - Machine Learning Engineering
 - Data Science
 - Business Intelligence
-- Cloud-based Data Systems
+- Cloud-Based Data Systems
 - Database Administration
 
 ---
 
-## 🤝 Collaboration
-I am open to collaborating on projects involving:
+## 🤝 Let's Collaborate
 
-- AI and Machine Learning solutions
-- Data Science and Analytics
-- Database design and optimization
-- Cloud-based applications
-- Business Intelligence dashboards
+I’m open to working on:
 
----
-
-## 📫 Contact Me
-📧 Email: **machotmatur54@gmail.com**
-
-💡 I am always open to learning, collaborating, and building impactful technology solutions.
+- 🤖 AI and Machine Learning projects
+- 📊 Data Science & Analytics
+- 🗄️ Database design and optimization
+- ☁️ Cloud-based applications
+- 📈 Business Intelligence dashboards
 
 ---
 
-## 📌 GitHub Profile
-This repository is special because its `README.md` appears directly on my GitHub profile.
+## 📫 Connect With Me
 
-Feel free to explore my projects and connect with me!
+📧 **Email:** machotmatur54@gmail.com
+
+---
+
+⭐ **Feel free to explore my repositories and collaborate on exciting projects!**
