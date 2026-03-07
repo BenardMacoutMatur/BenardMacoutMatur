@@ -2,6 +2,14 @@
 <h3 align="center">Data Science | Machine Learning | Cloud & Database Enthusiast</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-lightblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</p>
+<p align="center">
 Passionate about transforming data into intelligent solutions using AI, Machine Learning, and Cloud technologies.
 </p>
 
