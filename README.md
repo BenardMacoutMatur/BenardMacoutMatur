@@ -45,8 +45,7 @@ During my internship at **4G Capital**, I worked on several data and AI-driven p
 
 🗄️ **Database Systems**
 - Assisted in managing and organizing structured business data.
-
----
+  
 ---
 
 ## 🏢 Entrepreneurial Experience
@@ -66,6 +65,7 @@ Through this venture, I have gained hands-on experience in:
 This experience strengthened my skills in **software development, digital product building, and technical entrepreneurship.**
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Programming
