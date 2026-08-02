@@ -52,6 +52,14 @@ End-to-end web platform for a multi-country youth sports organization, built and
 - Built a full admin panel: Firebase Auth, Recharts dashboards, CRUD management, CSV export
 - Currently extending to a React Native (Expo) mobile admin app
 
+### 🏦 Banking Data ELT Pipeline
+End-to-end ELT pipeline built on a synthetic banking dataset (9 CSVs, ~5.8M rows total), fully containerized in Docker.
+- Modeled data through a medallion architecture — `raw` → `staging` (typed, cleaned, constrained) → `marts` (star schema)
+- Built a star schema with 6 dimension tables and 4 fact tables spanning transactions, cards, loans, and support tickets
+- Ran on a 3-container Docker Compose stack (Postgres, pgAdmin, Jupyter) with idempotent, re-runnable ETL notebooks
+- Handled real-world type-casting edge cases (numeric-looking text fields, integer-encoded booleans, legitimate nulls)
+- Delivered analytical insights on transaction volume, fraud rate by card type, and loan pricing patterns
+
 ### 🤖 LLM Zoomcamp — RAG Q&A Assistant
 Coursework-driven ML engineering across the DataTalks.Club LLM Zoomcamp.
 - Built a vector search pipeline using ONNX embeddings
