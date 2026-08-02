@@ -30,6 +30,13 @@ I'm a BSc Data Science graduand at JKUAT (Jomo Kenyatta University of Agricultur
 
 ## Featured Projects
 
+### 🚛 ELD Trip Planner — Full-Stack Web Application
+FMCSA-compliant trip planning app for commercial truck drivers, built with Django REST Framework and React (TypeScript).
+- Engineered an Hours-of-Service simulation engine enforcing 11-hr drive limits, 14-hr duty windows, and 70-hr/8-day cycle caps, with automatic break and rest insertion
+- Generates interactive route maps and DOT-format ELD log sheets
+- Integrated OpenStreetMap Nominatim for geocoding and Leaflet.js for interactive mapping
+- Deployed via GitHub CI/CD — frontend on Vercel, backend on Railway
+
 ### 🛡️ SafiCard — Credit Card Fraud Detection
 Full CRISP-DM pipeline built on the Kaggle Credit Card Transactions Fraud Detection Dataset.
 - Engineered features including Haversine distance and temporal transaction patterns
