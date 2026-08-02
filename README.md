@@ -18,7 +18,7 @@ Data Science student building production ML systems and full-stack platforms, wi
 
 ## About Me
 
-I'm a BSc Data Science student at JKUAT (Jomo Kenyatta University of Agriculture and Technology, Karen Campus), currently serving as Tech Lead of **ASK IN SPORTS**, a youth football and basketball tournament organization operating across Kenya, Uganda, Rwanda, and South Sudan. I work at the intersection of data science and software engineering — building models that need to hold up under real-world scrutiny, and platforms that need to stay up under real-world traffic.
+I'm a BSc Data Science graduant at JKUAT (Jomo Kenyatta University of Agriculture and Technology, Karen Campus), currently serving as Tech Lead of **ASK IN SPORTS**, a youth football and basketball tournament organization operating across Kenya, Uganda, Rwanda, and South Sudan. I work at the intersection of data science and software engineering — building models that need to hold up under real-world scrutiny, and platforms that need to stay up under real-world traffic.
 
 - 🎓 **BSc Data Science**, JKUAT
 - 💼 **Tech Lead**, ASK IN SPORTS (askinsports.org)
