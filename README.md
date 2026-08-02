@@ -1,5 +1,5 @@
 <h1 align="center">Benard Macout Matur</h1>
-<h3 align="center">Data Scientist | Data Engineering | Tech Lead, ASK IN SPORTS</h3>
+<h3 align="center">Data Scientist | Data Engineer | Tech Lead, ASK IN SPORTS</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
