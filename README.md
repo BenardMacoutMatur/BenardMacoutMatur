@@ -1,5 +1,5 @@
 <h1 align="center">Benard Macout Matur</h1>
-<h3 align="center">Data Scientist | Data Engineer | Tech Lead, ASK IN SPORTS</h3>
+<h3 align="center">Data Scientist | Data Engineering | Tech Lead, ASK IN SPORTS</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-Data Science student building production ML systems and full-stack platforms, with hands-on experience spanning fraud detection modeling, LLM/RAG engineering, and end-to-end web infrastructure for a multi-country sports organization.
+Data Scientist building production ML systems and full-stack platforms, with hands-on experience spanning fraud detection modeling, LLM/RAG engineering, and end-to-end web infrastructure for a multi-country sports organization.
 </p>
 
 ---
 
 ## About Me
 
-I'm a BSc Data Science graduant at JKUAT (Jomo Kenyatta University of Agriculture and Technology, Karen Campus), currently serving as Tech Lead of **ASK IN SPORTS**, a youth football and basketball tournament organization operating across Kenya, Uganda, Rwanda, and South Sudan. I work at the intersection of data science and software engineering — building models that need to hold up under real-world scrutiny, and platforms that need to stay up under real-world traffic.
+I'm a BSc Data Science graduand at JKUAT (Jomo Kenyatta University of Agriculture and Technology, Karen Campus), currently serving as Tech Lead of **ASK IN SPORTS**, a youth football and basketball tournament organization operating across Kenya, Uganda, Rwanda, and South Sudan. I work at the intersection of data science and software engineering — building models that need to hold up under real-world scrutiny, and platforms that need to stay up under real-world traffic.
 
 - 🎓 **BSc Data Science**, JKUAT
 - 💼 **Tech Lead**, ASK IN SPORTS (askinsports.org)
@@ -92,7 +92,7 @@ Coursework-driven ML engineering across the DataTalks.Club LLM Zoomcamp.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BenardMacoutMatur&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BenardMacoutMatur&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
 
 <p align="center">
